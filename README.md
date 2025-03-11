@@ -1,5 +1,7 @@
 Torontocupcake
+
 A delightful website dedicated to showcasing the beauty and deliciousness of cupcakes. The site features multiple pages with details about events, special occasions, corporate opportunities, and contact details, providing a comprehensive guide for Toronto's cupcake enthusiasts.
+
 Project Features
 •	Homepage (index.html): A warm and inviting landing page for visitors.
 •	About Us (About-us.html): Get to know the story and team behind Torontocupcake.
@@ -8,6 +10,7 @@ Project Features
 •	Contact Us (contact-us.html): A form or dedicated page for users to connect.
 •	Cupcake Varieties (cupcakes.html): A showcase of the varieties and specialties offered.
 •	Custom JavaScript Functionality (assets/js/script.js): Dynamic behavior and enriched user interactions.
+
 Folder Structure
 Torontocupcake/
 ├── About-us.html         # About Us page
