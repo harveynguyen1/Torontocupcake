@@ -14,13 +14,13 @@ A delightful website dedicated to showcasing the beauty and deliciousness of cup
 *   **Custom JavaScript Functionality (assets/js/script.js):** Dynamic behavior and enriched user interactions.
 
 ## Folder Structure
-Torontocupcake/
-├── About-us.html         # About Us page
-├── corp-events.html      # Corporate events page
-├── cupcakes.html         # Cupcake listing page
-├── occasions.html        # Special occasions services
-├── index.html            # Main landing page
-├── contact-us.html       # Contact form
-└── assets/
-    └── js/
-        └── script.js     # Custom JavaScript file
+*   `Torontocupcake`
+    *   `About-us.html`: About Us page
+    *   `corp-events.html`: Corporate events page
+    *   `cupcakes.html`: Cupcake listing page
+    *   `occasions.html`: Special occasions services
+    *   `index.html`: Main landing page
+    *   `contact-us.html`: Contact form
+    *   `assets`
+        *   `js`
+            *   `script.js`: Custom JavaScript file
